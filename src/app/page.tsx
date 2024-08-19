@@ -1,3 +1,3 @@
 export default function Root() {
-  return <div className="">main</div>;
+  return <div className="text-amber-400"></div>;
 }
